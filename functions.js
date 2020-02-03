@@ -11,7 +11,7 @@ function greet(name) {
     console.log(`Hello ${name}`);
   }
 }
-greet("Ali");
+
 /**
  * isOdd(n):
  * - receives a number n
