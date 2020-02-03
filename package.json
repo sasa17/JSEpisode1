@@ -9,7 +9,7 @@
     "jest": "^24.9.0"
   },
   "scripts": {
-    "test": "jest --watch"
+    "test": "CI=true jest --watch"
   },
   "dependencies": {
     "babel-core": "^6.26.3"
